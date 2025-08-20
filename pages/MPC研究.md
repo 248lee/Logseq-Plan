@@ -1,0 +1,2 @@
+- {{query (and [[MPC研究]] "TODO")}}
+-
