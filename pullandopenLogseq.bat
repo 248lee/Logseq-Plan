@@ -1,3 +1,3 @@
 git fetch
 git pull
-.\C:\Users\fanta\AppData\Local\Logseq\Logseq.exe
+C:\Users\fanta\AppData\Local\Logseq\Logseq.exe
