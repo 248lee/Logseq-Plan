@@ -6,3 +6,5 @@ git commit -m "commit by running script"
 git fetch
 git pull
 git push
+
+pause
